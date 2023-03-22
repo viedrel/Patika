@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class DortBesKuvvet {
     public static void main(String[] args) {
-        int n, i, k;
+        int n, i;
         Scanner scan = new Scanner(System.in);
 
         System.out.print("Sayı giriniz: ");
